@@ -95,7 +95,7 @@ This system demonstrates advanced software engineering principles including:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Oluwat-dev/Distributed-Task-Manager.git
    cd distributed-task-manager
    ```
 
